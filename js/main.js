@@ -5,6 +5,12 @@ const pages = [
         description: "This guide helps you get started with essential design principles and guidelines for clean, effective web design.",
         link: { text: "Check this out!", url: "./the-basic-styleguide/index.html" },
         image: { alt: "Design Thumbnail", url: "./the-basic-styleguide/images/photo-1726853546098-380e29da9e31.avif" }
+    },
+    {
+        title: "Very Cool Designs",
+        description: "This guide helps you get started with essential design principles and guidelines for clean, effective web design.",
+        link: { text: "Check this out!", url: "./very-cool-designs/index.html" },
+        image: { alt: "Design Thumbnail", url: "./very-cool-designs/images/photo-1726853546098-380e29da9e31.avif" }
     }
 ];
 const webpages_list = document.querySelector("#webpages-list");
